@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">ReNew</title>
+  <desc id="desc">순환하는 두 개의 화살표로 표현한 ReNew 로고</desc>
+  <rect width="1000" height="320" fill="#111214" />
+  <g fill="none" stroke="#f7f8fa" stroke-width="24" stroke-linecap="round">
+    <path d="M145 172a82 82 0 0 1 133-64" />
+    <path d="M295 148a82 82 0 0 1-133 64" />
+  </g>
+  <path d="M270 76l34 28-41 13z" fill="#f7f8fa" />
+  <path d="M170 244l-34-28 41-13z" fill="#f7f8fa" />
+  <circle cx="220" cy="160" r="28" fill="#f7f8fa" />
+  <text x="370" y="166" fill="#f7f8fa" font-family="Bahnschrift, 'Segoe UI', sans-serif" font-size="122" font-weight="600" letter-spacing="-3" dominant-baseline="middle">ReNew</text>
+</svg>
